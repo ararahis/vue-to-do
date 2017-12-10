@@ -1,6 +1,6 @@
 # vue-to-do
 
-> A Vue.js project
+> vue todo application from https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2 updated to work with localStorage
 
 ## Build Setup
 
